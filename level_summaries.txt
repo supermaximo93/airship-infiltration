@@ -1,0 +1,19 @@
+01: Controls, powersupply
+02: Powersupply opens doors
+03: Hacking computers
+04: Turrets
+05: Checkpoints
+06: Turrets open doors, general summary of levels
+
+07: Switches open doors
+08: Switches open and close doors
+09: Switch puzzle
+10: General summary of levels
+
+11: Guards
+12: Guards open doors
+13: Keycards open doors
+14: Guards drop keycards
+15: General summary of levels
+
+16: Boss
