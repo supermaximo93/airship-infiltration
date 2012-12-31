@@ -4,16 +4,13 @@
 04: Turrets
 05: Checkpoints
 06: Turrets open doors, general summary of levels
+07: Switches open and close doors
+08: Switch puzzle
 
-07: Switches open doors
-08: Switches open and close doors
-09: Switch puzzle
-10: General summary of levels
+09: Guards
+10: Guards open doors
+11: Keycards open doors
+12: Guards drop keycards
+13: General summary of levels
 
-11: Guards
-12: Guards open doors
-13: Keycards open doors
-14: Guards drop keycards
-15: General summary of levels
-
-16: Boss
+14: Boss
