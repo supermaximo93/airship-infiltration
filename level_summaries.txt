@@ -8,7 +8,7 @@
 08: Switch puzzle
 
 09: Guards
-10: Guards open doors
+10: Stealth
 11: Keycards open doors
 12: Guards drop keycards
 13: General summary of levels
